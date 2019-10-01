@@ -3,6 +3,7 @@
 Free resources to learn from, anyone may contribute.
 
 - [Web Development](https://github.com/fcgec/resources/tree/master/web-development)
+- [Data Science](https://github.com/fcgec/resources/tree/master/data-science)
 - [Placeholder](https://github.com/fcgec/resources/)
 
 
