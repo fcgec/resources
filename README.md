@@ -2,10 +2,10 @@
 
 Free resources to learn from, anyone may contribute.
 
+- [First time? 🌚](https://github.com/fcgec/resources/tree/master/first-FOSS-contribution)
 - [Web Development](https://github.com/fcgec/resources/tree/master/web-development)
 - [Data Science](https://github.com/fcgec/resources/tree/master/data-science)
 - [Placeholder](https://github.com/fcgec/resources/)
-
 
 <br>
 <br>
@@ -43,3 +43,9 @@ Free resources to learn from, anyone may contribute.
 
     Syntax :  - content
     Add following '-' and content to continue the list
+
+<br>
+<br>
+<br>
+
+- FOSS Community GEC
