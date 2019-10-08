@@ -9,7 +9,7 @@ Free resources to learn Data Science - Visualisations, Data Analysis, Machine le
 
 ### Data Visualisations
 
-- [Free Code Camp](https://learn.freecodecamp.org/) 
+- [Free Code Camp (with D3)](https://learn.freecodecamp.org/) 
 
 ### Machine Learning
 
@@ -26,4 +26,3 @@ Free resources to learn Data Science - Visualisations, Data Analysis, Machine le
 - [Kaggle](https://www.kaggle.com)
 
 
-> If there are any specific technology resources then add them under a new section/header.
