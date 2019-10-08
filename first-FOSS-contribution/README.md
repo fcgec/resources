@@ -1,14 +1,12 @@
 # Making your first contribution to FOSS
 
-If you have been a free software user for a while now and want to give back to the community, here's a guide to get you started.
+If you have been a free software user for a while and you want to give back to the community, here's a guide to get you started.
 
 ---
 
 ### Introduction
 
-There are various ways in which you can make contributions to Free and Open Source Software. This article will focus on making your first meaningful pull request. To get started you have to get familiar with the command line and a version control system, preferably git. Once you learn these, you will be ready to make a pull request, but what do I contribute to?
-
-You don't really have to know a language to make your first contribution. You can help with documentation/licensing and much more. If you want to contribute to the code, you have to be familiar with the language and the technology used. You can also read the code and/or use the beta versions of the software to file issues and bugs. 
+There are various ways in which you can make contributions to Free and Open Source Software. This article will focus on making your first meaningful pull request. To get started you have to be familiar with the command line and a version control system, preferably git. Once you learn these, you will be ready to make a pull request, but what do I contribute to? You don't really have to know a language to make your first contribution. You can help with documentation/licensing and much more. If you want to contribute to the code, you have to be familiar with the language and the technology used. You can also read the code and/or use the beta versions of the software to file issues and bugs. 
 
 ### Resources
 
@@ -31,4 +29,4 @@ You don't really have to know a language to make your first contribution. You ca
 - [Issues with label: good first issue](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 - [Hacktoberfest Projects](https://hacktoberfest.digitalocean.com/#projects)
 - [Mozilla - Answer a few questions to find related issues](https://whatcanidoformozilla.org/#!/progornoprog/advocate)
-- ####[Making your first patch to the OG Linux Kernel](https://kernelnewbies.org/FirstKernelPatch)
+- [Making your first patch to the OG Linux Kernel](https://kernelnewbies.org/FirstKernelPatch)
