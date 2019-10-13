@@ -2,6 +2,7 @@
 
 Free resources to learn from, anyone may contribute.
 
+- [Python Basics]()
 - [First time? 🌚](https://github.com/fcgec/resources/tree/master/first-FOSS-contribution)
 - [Web Development](https://github.com/fcgec/resources/tree/master/web-development)
 - [Data Science](https://github.com/fcgec/resources/tree/master/data-science)
