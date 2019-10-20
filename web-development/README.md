@@ -14,5 +14,7 @@ Free resources to learn Web Development - HTML, CSS, JavaScript and much more!
 
 - [The Odin Project](https://www.theodinproject.com/)
 
+- [SoloLearn](https://www.sololearn.com/)
+
 
 > If there are any specific technology resources then add them under a new section/header.
