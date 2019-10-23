@@ -4,6 +4,7 @@
 ## Books ##
  - Python Crash course by Erric Matthes
  - [Automate the Boring Stuff with Python by Al Sweigart](https://automatetheboringstuff.com)
+ - Learn python the hard way
  
 ## Online resources ##
  - [SoloLearn](https://www.sololearn.com/Course/Python/)
