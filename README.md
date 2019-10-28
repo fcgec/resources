@@ -8,11 +8,6 @@ Free resources to learn from, anyone may contribute.
 - [Data Science](https://github.com/fcgec/resources/tree/master/data-science)
 - [Placeholder](https://github.com/fcgec/resources/)
 
-<br>
-<br>
-<br>
-<br>
-<br>
 
 # Quick Markdown Syntax: #
 
