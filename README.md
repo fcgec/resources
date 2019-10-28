@@ -1,47 +1,8 @@
 # Resources
 
-Free resources to learn from, anyone may contribute.
-
-- [Python Basics]()
-- [First time? 🌚](https://github.com/fcgec/resources/tree/master/first-FOSS-contribution)
+- [Python Basics](https://github.com/fcgec/resources/tree/master/Python-Basics)
+- [FOSS contribution 🌚](https://github.com/fcgec/resources/tree/master/first-FOSS-contribution)
 - [Web Development](https://github.com/fcgec/resources/tree/master/web-development)
 - [Data Science](https://github.com/fcgec/resources/tree/master/data-science)
 - [Placeholder](https://github.com/fcgec/resources/)
 
-
-# Quick Markdown Syntax: #
-
-<br>
-
-# Heading #
-
-    Syntax :  # heading #
-    Increase number of '#' to get h2 etc.
-
-[link](https://github.com/fcgec/resources/tree/master/web-development)
-
-    Syntax :  [link name](link url)
-
->blockquote
-
-    Syntax :  >blockquote
-
-`code()`
-
-    Syntax :  `code()`
-
-1. Ordered List
-
-    Syntax :  1. content
-    Add following numbers and content to continue the list
-
-- Unordered List
-
-    Syntax :  - content
-    Add following '-' and content to continue the list
-
-<br>
-<br>
-<br>
-
-- FOSS Community GEC
