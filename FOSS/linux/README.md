@@ -1,5 +1,6 @@
 # LINUX
 
+
 ## Which Distro Should I Use?
 
 If you've never used linux before and don't know how to use the command line, distros like mint and ubuntu are perfect for you. They have GUI's similar to that of windows(but faster and more customisable). 
@@ -46,6 +47,7 @@ If you're looking for some minimal programs to get started with go through the w
 ## Weird and wonderful places on the linuxnet
 
 These websites have cool linux programs and utilities but more importantly, they are just really cool websites. Each one is like its own little maze for you to explore. Exploring them will be sure to make you long for the days of the hardcore technologists and hackers and will inspire you to become like them. These websites are listed in increasing order of weirdness.
+
 1) [suckless.org](https://suckless.org/philosophy/)
 2) [z3bra.org](https://www.z3bra.org/)
 3) [cat-v.org](http://cat-v.org/)
@@ -54,6 +56,6 @@ These websites have cool linux programs and utilities but more importantly, they
 6) [drkhsh.at](https://drkhsh.at/)
 7) [fifth.space](https://git.fifth.space/)
 8) [xero.nu](http://xero.nu/)
-9) [r-36.net](http://www.r-36.net/) -- in case you can't find the code it's [here](http://r-36.net/scm/)
+9) [r-36.net](http://www.r-36.net/)
 10 [ywstd.fr](https://ywstd.fr/)
 11) [2f30.org](https://2f30.org/)
