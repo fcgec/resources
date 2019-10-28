@@ -10,11 +10,11 @@ There are various ways in which you can make contributions to Free and Open Sour
 
 ### Resources
 
-#### GIT
+#### Git
 - [Githhub Guides](https://guides.github.com/)
-- [GIT CheatSheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet/)
+- [Git CheatSheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet/)
 - [Installating Git Bash](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-
+- [Markdown Quick Reference](https://guides.github.com/features/mastering-markdown/)
 #### Shell
 
 - The easiest way would be to start using linux.

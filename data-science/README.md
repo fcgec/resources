@@ -3,6 +3,8 @@
 Free resources to learn Data Science - Visualisations, Data Analysis, Machine learning and much more.
 
 ---
+### Foundations of Python for Data Science
+ - [Kaggle Learn](https://www.kaggle.com/learn/overview)
 ### Data Science
 
 - [Data Science Essentials](https://www.edx.org/course/data-science-essentials)
