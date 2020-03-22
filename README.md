@@ -6,4 +6,4 @@
 - [Web Development](https://github.com/fcgec/resources/tree/master/web-development)
 - [Data Science](https://github.com/fcgec/resources/tree/master/data-science)
 - [Game Development](https://github.com/fcgec/resources/tree/master/game-development)
-
+- [App Development](https://github.com/fcgec/resources/tree/master/app-development)
