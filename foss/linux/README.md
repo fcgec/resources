@@ -36,6 +36,7 @@ Below are a few of our favourite ricing resources(feel free to add your own):
 - [nnn - file manager](https://github.com/jarun/nnn)
 - [zathura - pdf viewer](https://pwmt.org/projects/zathura/)
 - [dmenu - simple and fast search menu for linux](https://tools.suckless.org/dmenu/) (there are some really nice script out there that use dmenu)
+- [Tmux - terminal multiplexer](https://github.com/tmux/tmux/wiki) (quiet useful if you are want run multiple things inside a single terminal)
 
 ## Minimal C programs
 
