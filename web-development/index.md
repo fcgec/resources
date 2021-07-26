@@ -16,5 +16,6 @@ Free resources to learn Web Development - HTML, CSS, JavaScript and much more!
 
 - [SoloLearn](https://www.sololearn.com/)
 
+- [Sonar Learning](https://www.sonarlearning.co.uk/topicpage.php?topic=web)
 
 > If there are any specific technology resources then add them under a new section/header.
