@@ -7,3 +7,4 @@
 - [Data Science](./data-science)
 - [Game Development](./game-development)
 - [App Development](./app-development)
+- [Core CS](./core-cs)
